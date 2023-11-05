@@ -22,9 +22,9 @@ instruments to thousands of labs around the world.
 
 ## Interests
 * Neuroscience instrumentation.
-* Open-source development (hardware & software).
+* Open-source hardware & software development.
 * Technical standards.
-* Labor rights; collective ownership of designs and business
+* Labor rights; collective ownership of designs and business.
 
 ## Education
 
@@ -185,7 +185,7 @@ IEEE Potentials 2007, 26:12; doi: [10.1109/mp.2007.343034](https://doi.org/10.11
 ### Talks
 
 `2022`
-J.P. Newman in conversation with N. Halper, J. Singh, & C. Rozell
+J.P. Newman in conversation with N. Halper, J. Singh, & C. Rozell.
 Access in neuroscience & neurotechnology.
 Invited panel discussion, CRCNS PI meeting, Georgia Tech, Atlanta, GA.
 
