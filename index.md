@@ -24,7 +24,7 @@ instruments to thousands of labs around the world.
 * Neuroscience instrumentation.
 * Open-source development (hardware & software).
 * Technical standards.
-* Labor rights and relations; collective ownership of designs, spaces, work products, etc.
+* Labor rights; collective ownership of designs and business
 
 ## Education
 
@@ -41,8 +41,8 @@ Advisor: Dr. Steve M. Potter
 
 `2003-07`
 __BS__, Bioengineering\\
-SUNY Binghamton\\
 *Summa Cum Laude*\\
+SUNY Binghamton\\
 Advisor: Dr. Hiroki Sayama
 
 <!--
