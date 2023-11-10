@@ -6,7 +6,7 @@ title: Jon Newmans's CV
 # Jonathan P. Newman
 
 <div id="webaddress">
-  <a href="https://github.com/jonnew">github</a> | <a href="https://twitter.com/__jonnew">twitter</a> | email: jpn snail open-ephys.org
+  <a href="https://github.com/jonnew">github</a> | email: jpn snail open-ephys.org
   <br>
   <br>
   <br>
@@ -14,7 +14,6 @@ title: Jon Newmans's CV
 
 `2021-curr.`
 __President, [Open Ephys, Inc.](https://open-ephys.org/)__
-
 
 Open Ephys is an employee-owned cooperative based in Atlanta, Georgia.
 We provide high-quality, affordable, and open-source scientific
