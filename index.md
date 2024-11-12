@@ -80,20 +80,20 @@ An up to date list can be found on [my google scholar profile](https://scholar.g
 
 ### Articles
 
-`2023`
+`2024`
 J.P. Newman, J. Zhang, A. Cuevas-López, N.J. Miller, T. Honda, M-S.H. van der Goes, A.H. Leighton, F. Carvalho, G. Lopes, A. Lakunina, J.H. Siegle, M.T. Harnett, M.A. Wilson, J. Voigts.
-A unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior.
-bioRxiv 2023.08.30.554672; doi: [10.1101/2023.08.30.554672](https://doi.org/10.1101/2023.08.30.554672)
+ONIX: A unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior.
+Nat. Meth. 2024; doi: [10.1038/s41592-024-02521-1](https://doi.org/10.1038/s41592-024-02521-1)
 
-`2023`
-J. Zhang, J. P. Newman, Z. Wang, Y. Qian, W. Guo, Z.S. Chen, C. Linghu, R. Etienne-Cummings, E. Fossum, E. Boyden, M.A. Wilson.
+`2024`
+J. Zhang, J. P. Newman, Z. Wang, Y. Qian,  P. Feliciano-Ramos, W. Guo, T. Honda, Z.S. Chen, C. Linghu, R. Etienne-Cummings, E. Fossum, E. Boyden, M.A. Wilson.
 Pixel-wise programmability enables dynamic high-SNR cameras for high-speed microscopy.
-bioRxiv 2023.06.27.546748; doi: [0.1101/2023.06.27.546748](https://doi.org/10.1101/2023.06.27.546748)
+Nat. Commun. 2024, 15:4480; doi: [10.1038/s41467-024-48765-5](https://doi.org/10.1038/s41467-024-48765-5)
 
-`2022`
+`2024`
 M-S.H. van der Goes, J. Voigts, J.P. Newman, E.H.S. Toloza, N.J. Brown, P. Murugan, M.T. Harnett.
 Coordinated head direction representations in mouse anterodorsal thalamic nucleus and retrosplenial cortex.
-bioRxiv 2022.08.20.504604; doi: [0.1101/2022.08.20.504604](https://doi.org/10.1101/2022.08.20.504604)
+ELife 13:e82952; doi: [10.7554/eLife.82952](https://doi.org/10.7554/eLife.82952)
 
 `2022`
 J. Voigts, I. Kanitscheider, N.J. Miller, E.H.S. Toloza, J.P. Newman, I.R. Fiete, M.T. Harnett.
@@ -128,7 +128,7 @@ bioRxiv 2019 757716; doi: [10.1101/757716](https://doi.org/10.1101/757716)
 `2015`
 J.P. Newman, M.-f. Fong, D.C. Millard, C.J. Whitmire, G.B. Stanley, S.M. Potter.
 Optogenetic feedback control of neural activity.
-eLife 2015, 4: e07192; doi: [10.7554/eLife.07192](https://doi.org/10.7554/eLife.07192)
+ELife 2015, 4: e07192; doi: [10.7554/eLife.07192](https://doi.org/10.7554/eLife.07192)
 
 <!--
 J.P. Newman, M.-f. Fong, S.M. Potter.
