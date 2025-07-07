@@ -80,10 +80,20 @@ An up to date list can be found on [my google scholar profile](https://scholar.g
 
 ### Articles
 
-`2024`
+`2025`
+J. Voigts, I. Kanitscheider, N.J. Miller, E.H.S. Toloza, J.P. Newman, I.R. Fiete, M.T. Harnett.
+Spatial reasoning via recurrent neural dynamics in mouse retrosplenial cortex.
+Nat. Neurosci. 2025, 28, 1293–1299; doi: [10.1038/s41593-025-01944-z](https://doi.org/10.1038/s41593-025-01944-z)
+
+`2025`
 J.P. Newman, J. Zhang, A. Cuevas-López, N.J. Miller, T. Honda, M-S.H. van der Goes, A.H. Leighton, F. Carvalho, G. Lopes, A. Lakunina, J.H. Siegle, M.T. Harnett, M.A. Wilson, J. Voigts.
 ONIX: A unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior.
-Nat. Meth. 2024; doi: [10.1038/s41592-024-02521-1](https://doi.org/10.1038/s41592-024-02521-1)
+Nat. Meth. 2025, 22, 187–192; doi: [10.1038/s41592-024-02521-1](https://doi.org/10.1038/s41592-024-02521-1)
+
+`2024`
+W. Guo, J. Zhang, J.P. Newman, M.A. Wilson.
+Latent learning drives sleep-dependent plasticity in distinct CA1 subpopulations.
+Cell Reports 2024, 12, 115028; doi: [10.1016/j.celrep.2024.115028](https://doi.org/10.1016/j.celrep.2024.115028)
 
 `2024`
 J. Zhang, J. P. Newman, Z. Wang, Y. Qian,  P. Feliciano-Ramos, W. Guo, T. Honda, Z.S. Chen, C. Linghu, R. Etienne-Cummings, E. Fossum, E. Boyden, M.A. Wilson.
@@ -94,16 +104,6 @@ Nat. Commun. 2024, 15:4480; doi: [10.1038/s41467-024-48765-5](https://doi.org/10
 M-S.H. van der Goes, J. Voigts, J.P. Newman, E.H.S. Toloza, N.J. Brown, P. Murugan, M.T. Harnett.
 Coordinated head direction representations in mouse anterodorsal thalamic nucleus and retrosplenial cortex.
 ELife 13:e82952; doi: [10.7554/eLife.82952](https://doi.org/10.7554/eLife.82952)
-
-`2022`
-J. Voigts, I. Kanitscheider, N.J. Miller, E.H.S. Toloza, J.P. Newman, I.R. Fiete, M.T. Harnett.
-Spatial reasoning via recurrent neural dynamics in mouse retrosplenial cortex.
-bioRxiv 2022.04.12.488024; doi: [10.1101/2022.04.12.488024](https://doi.org/10.1101/2022.04.12.488024)
-
-`2020`
-W. Guo, J. Zhang, J.P. Newman, M.A. Wilson.
-Latent learning drives sleep-dependent plasticity in distinct CA1 subpopulations.
-bioRxiv 2020.02.27.967794; doi: [10.1101/2020.02.27.967794](https://doi.org/10.1101/2020.02.27.967794)
 
 `2020`
 J.P. Newman, J. Voigts, M. Borius, M. Karlsson, M.A. Wilson.
